@@ -1,0 +1,7 @@
+D:\BATU\githubProjects\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe.config
+D:\BATU\githubProjects\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.exe
+D:\BATU\githubProjects\ogrenciOtomasyonu\ogrenciOtomasyonu\bin\Debug\ogrenciOtomasyonu.pdb
+D:\BATU\githubProjects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csprojAssemblyReference.cache
+D:\BATU\githubProjects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.csproj.CoreCompileInputs.cache
+D:\BATU\githubProjects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.exe
+D:\BATU\githubProjects\ogrenciOtomasyonu\ogrenciOtomasyonu\obj\Debug\ogrenciOtomasyonu.pdb
