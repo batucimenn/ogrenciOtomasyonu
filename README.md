@@ -10,4 +10,6 @@ Visual Studio ortamında C# kullanılarak yazılmış, console uygulamasıdır.
 - Ders Ekle
 - Dersleri Listele
 - Not Ekle
-2. Notları Listele
+- Notları Listele
+
+![ogrenciOtomasyonu](https://github.com/batucimenn/ogrenciOtomasyonu/blob/main/programCiktilari/1.ogrenciOtomasyonu.png)
