@@ -1,1 +1,2 @@
-# Ögrenci Otomasyonu / 2017
+# Öğrenci Otomasyonu / 2017
+
